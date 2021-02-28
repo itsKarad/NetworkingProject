@@ -1,4 +1,3 @@
-# NetworkingProject
 # Client Server Communication with Multiple Clients
 
 - This project consists for a TCP protocol based bidirectional multi-client server communication. Clients can send the server messages and the server can respond as well.
