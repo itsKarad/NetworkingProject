@@ -12,7 +12,7 @@
 
 ## Tech Stack Used
 
-- C++ language, and it's inbuilt libraries
+- C++ language, and it's inbuilt libraries for socket programming
 - TCP protocol.
 
 ## Logic Used
