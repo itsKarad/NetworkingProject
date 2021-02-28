@@ -41,4 +41,6 @@
 - Asking for name of the user before connection so that the server can know more information of client, and also for better messaging experience.
 
 ## Working Demo
+- GIF clearly demonstrates that the server is able to communicate with 2 clients. After the second client terminates the chat, the server goes back to communicate with the first client.
+
 ![Wokring demo GIF](demo.gif)
