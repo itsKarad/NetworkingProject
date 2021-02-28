@@ -17,10 +17,12 @@
 
 ## Logic Used
 
-- TCP protocol, socket programming.
+- TCP protocol
+- Socket programming.
 
 ## Results obtained
-- Bidirectional multi-client server communication
+- Bidirectional multi-client server communication.
+- Either can send full length texts with low latency.
 
 ## Existing Features
 
