@@ -1,7 +1,6 @@
 # Client Server Communication with Multiple Clients
 
 - This project consists for a TCP protocol based bidirectional multi-client server communication. Clients can send the server messages and the server can respond as well.
-- 
 
 # How to Use?
 
@@ -39,5 +38,5 @@
 - Adding color to error messages, for better use.
 - Asking for name of the user before connection so that the server can know more information of client, and also for better messaging experience.
 
-#Working Demo
+# Working Demo
 ![Wokring demo GIF](demo.gif)
