@@ -4,7 +4,7 @@
 
 ## How to Use?
 
-- Download the entire project, open up your terminal in Linux.
+- Download the entire project, open up your terminal in Linux, and navigate to this folder.
 - Enter `./serverSide.out 3000` , where 3000 is the PORT number
 - Enter `./clientSide.out [localhost](http://localhost) 3000` where 3000 is the same PORT number as provided for server.
 - Client has to send the first message, then server and so on. For quitting the chat, either the server or client can enter `exit` and the program will terminate.
